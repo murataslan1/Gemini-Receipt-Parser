@@ -1,0 +1,5 @@
+{
+  "name": "Receipt Extractor AI",
+  "description": "An AI-powered application that extracts structured data (vendor, date, total) from unstructured receipt text using the Gemini API.",
+  "requestFramePermissions": []
+}
